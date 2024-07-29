@@ -6,7 +6,7 @@ Meu nome é Vinicius Degrande
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e comportilhamento dos meus projetos desevolvidos
 
- ### VOCÊ entra em contato comigo
+ ### Você entra em contato comigo
 
  @ alguem por ai 
 

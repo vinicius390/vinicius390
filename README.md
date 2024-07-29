@@ -2,7 +2,7 @@
 
 Meu nome é Vinicius Degrande 
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou Estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e comportilhamento dos meus projetos desevolvidos
 
